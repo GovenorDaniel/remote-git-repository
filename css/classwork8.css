@@ -1,0 +1,614 @@
+
+.mainsheet{
+  width: 2000px;
+  height: 9000px;
+   background-color: rgb(249, 248, 248);
+}
+
+
+
+
+.first{
+  display: flex;
+  height: 50px;
+  width: 1700px;
+  border: 2px solid;
+  background-color:  rgb(45, 57, 75);
+ 
+
+}
+
+.writtings{
+font-size: 15px;
+margin-top: 10px;
+margin-left: 20px;
+
+}
+
+
+.businet{
+color: rgb(156, 201, 245);
+
+
+
+
+}
+.smallphone{
+  width: 18px;
+  height: 25px;
+  margin-top: 10px;
+  margin-left: 250px;
+  border-radius: 3px;
+  border-width: 1px;
+  border-color: snow white;
+  background-color: rgb(45, 57, 75);
+
+}
+
+
+.bigphone{
+  width: 20px;
+  height: 27px;
+  margin-top: 10px;
+  margin-left: 20px;
+  border-radius: 3px;
+  border-width: 1px;
+  border-color: snow white;
+  background-color:  rgb(45, 57, 75);
+
+}
+
+#line{
+  border: 2px solid;
+  height: 19px;
+  width: 5px;
+  border-left: none;
+  border-right: none ;
+  margin-right: 2px;
+  border-color: snow white;
+}
+
+
+#desk{
+   margin-left: 20px;
+}
+
+
+.but1{
+  width: 150px;
+  height: 40px;
+  margin-top: 3px;
+  margin-left: 250px;
+  border-radius: 3px;
+  border-width: 1px;
+  background-color:  rgb(49, 175, 54);
+  display: flex;
+
+}
+
+.but2{
+  width: 170px;
+  height: 40px;
+  margin-top: 3px;
+  margin-left:30px;
+  border-radius:3px;
+  border-width: 1px;
+  background-color: white;
+  font-size: 12px;
+
+}
+
+#center{
+  padding-top: 10px;
+}
+
+#cart{
+  padding-top: 5px;
+  font-size: 15px;
+  color: white;
+  margin-left:10px ;
+}
+
+
+.image{
+  height: 30px;
+  width: 30px;
+  padding-top: 4px;
+}
+
+.mainbg{
+  display: flex;
+  height: 70px;
+  width: 1700px;
+  border: 2px solid;
+  background-color:  rgb(45, 57, 75);
+}
+
+
+
+
+.color{
+  background-color: red;
+}
+
+#logo{
+  height: 60px;
+  width: 200px;
+  margin-top: 3px;
+  margin-left: 250px;
+}
+
+#border{
+  background-color:  rgb(45, 57, 75);
+  border: none;
+  margin-left: 40px;
+  padding-top: 20px;
+  color: white;
+
+}
+
+#border2{
+  background-color:  rgb(45, 57, 75);
+  border: none;
+  padding-top: 20px;
+  color: white;
+}
+  
+
+
+ .position-absolute{
+    top: 20%;
+   margin-left: 40%;
+     transform: translate(-50%);
+    color:red;  
+    font-weight: bold;
+    font-size:50px; 
+  }
+
+.minitext{
+
+    font-weight: bold;
+    font-size:25px;
+}
+
+
+.button-why{
+  
+  font-size:30px;
+  width: 200px;
+  height: 70px;
+ border-radius: 40px;
+ border: none;
+ font-size:25px ;
+}
+
+
+.button-blu{
+  
+  font-size:30px;
+  width: 200px;
+  height: 70px;
+ border-radius: 40px;
+ border: none;
+ font-size:25px ;
+}
+
+
+.navbar2{
+  margin-left: 30px;
+}
+
+
+#box{
+  width: 150px;
+  height: 30px;
+  background-color: rgb(164, 174, 187);
+  border: 2px solid;
+  margin-left: 800px;
+ text-align: center;
+ margin-top: 100px;
+ padding-top: 1px;
+ border-radius: 45px;
+ color: mediumblue;
+ border: none;
+ font-weight: bold;
+}
+
+
+#what{
+  border: 2px solid;
+  margin-left: 750px;
+  color: black;
+ text-align: center;
+ padding-top: 1px;
+ border-radius: 45px;
+ border: none;
+ font-size: 50px;
+}
+
+
+#market{
+  width: 400px;
+  height: 350px;
+  background-color: white;
+  border: 2px solid;
+ text-align: center;
+  padding-top: 1px;
+ color: black;
+ border: none;
+ font-weight: bold;
+  margin-left: 200px;
+  border-radius: 10px;
+  
+}
+
+#font{
+  font-size: 30px;
+  font-weight: lighter;
+  padding-top: 180px;
+
+
+}
+
+#market2{
+  width: 400px;
+  height: 350px;
+  background-color: white;
+  border: 2px solid;
+ text-align: center;
+  padding-top: 1px;
+ color: black;
+ border: none;
+ font-weight: bold;
+  margin-left: 200px;
+  border-radius: 10px;
+ 
+}
+
+#market3{
+  width: 400px;
+  height: 350px;
+  background-color: white;
+  border: 2px solid;
+ text-align: center;
+  padding-top: 1px;
+ color: black;
+ border: none;
+ font-weight: bold;
+ margin-left: 200px;
+ border-radius: 10px;
+
+}
+
+
+#market4{
+  width: 400px;
+  height: 350px;
+  background-color:white;
+  border: 2px solid;
+ text-align: center;
+  padding-top: 1px;
+ color: black;
+ border: none;
+ font-weight: bold;
+  margin-left: 200px;
+  border-radius: 10px;
+  
+}
+
+#font2{
+  font-size: 30px;
+  font-weight: lighter;
+  padding-top: 180px;
+
+
+}
+
+#market5{
+  width: 400px;
+  height: 350px;
+  background-color: white;
+  border: 2px solid;
+ text-align: center;
+  padding-top: 1px;
+ color: black;
+ border: none;
+ font-weight: bold;
+  margin-left: 200px;
+  border-radius: 10px;
+ 
+}
+
+#market6{
+  width: 400px;
+  height: 350px;
+  background-color: white;
+  border: 2px solid;
+ text-align: center;
+  padding-top: 1px;
+ color: black;
+ border: none;
+ font-weight: bold;
+ margin-left: 200px;
+ border-radius: 10px;
+
+}
+
+.d{
+  padding-top: 60px;
+}
+
+.bluebg{
+  height: 800px;
+  width: 1715px;
+  background-color: rgb(51, 117, 236);
+  margin-top: 100px;
+}
+
+.threeimage{
+  margin-top: 100px;
+  margin-left: 200px;
+
+}
+
+
+#about{
+  width: 150px;
+  height: 30px;
+  background-color: rgb(164, 174, 187);
+  border: 2px solid;
+  margin-left: 100px;
+ text-align: center;
+ margin-top: 100px;
+ padding-top: 1px;
+ border-radius: 45px;
+ color: mediumblue;
+ border: none;
+ font-weight: bold;
+}
+
+.writings{
+  color: white;
+  margin-left: 100px;
+}
+
+#write{
+  font-size: 50px;
+}
+
+#write2{
+  font-size: 20px;
+
+}
+
+.flexing{
+   display: flex;
+}
+
+
+
+#flexx{
+  margin-left: 20px;
+  margin-top: 20px;
+ 
+}
+
+#circle1{
+  width: 8px;
+  height: 8px;
+  background-color: white;
+  border-radius: 50%;
+  margin-top: 32px;
+}
+
+#circle2{
+  width: 8px;
+  height: 8px;
+  background-color: white;
+  border-radius: 50%;
+  margin-top: 38px;
+}
+
+#circle3{
+  width: 8px;
+  height: 8px;
+  background-color: white;
+  border-radius: 50%;
+  margin-top: 38px;
+}
+
+.whitebg{
+  background-color: white;
+  height: 700px;
+  width: 1715px;
+  
+}
+
+#why{
+  width: 100px;
+  height: 30px;
+  background-color: rgb(229, 235, 247);
+  border: 2px solid;
+ text-align: center;
+  padding-top: 2px;
+ border-radius: 45px;
+ color: mediumblue;
+ border: none;
+ font-weight: bold;
+}
+
+
+
+#writee{
+  font-size: 45px;
+  color: black;
+}
+
+#circle4{
+  width: 8px;
+  height: 8px;
+ background-color: rgb(51, 117, 236);
+  border-radius: 50%;
+  margin-top: 32px;
+}
+
+#circle5{
+  width: 8px;
+  height: 8px;
+  background-color: rgb(51, 117, 236);
+  border-radius: 50%;
+  margin-top: 38px;
+}
+
+#circle6{
+  width: 8px;
+  height: 8px;
+  background-color: rgb(51, 117, 236);
+  border-radius: 50%;
+  margin-top: 38px;
+}
+
+.flue{
+  margin-top: 80px;
+}
+
+
+.flexings{
+   display: flex;
+}
+
+
+
+#flexxs{
+  margin-left: 20px;
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.aa{
+  margin-top: 80px;
+}
+
+.nice{
+  height: 600px;
+  width: 1715px;
+  
+}
+
+
+
+ 
+ 
+ .bj{
+    top: 5%;
+   margin-left: 40%;
+     transform: translate(40%);
+    color:red;  
+    font-weight: bold;
+    font-size:20px; 
+  }
+
+
+.minitexts{
+
+    font-weight: bold;
+    font-size:25px;
+}
+
+
+
+
+.minitext{
+
+    font-weight: bold;
+    font-size:25px;
+}
+
+
+
+#workon{
+  width: 220px;
+  height: 35px;
+  background-color: rgb(182, 190, 201);
+  border: 2px solid;
+ text-align: center;
+ margin-top: 100px;
+ padding-top: 1px;
+ border-radius: 45px;
+ color: white;
+ border: none;
+ font-weight: bold;
+}
+
+
+
+.button-whys{
+  
+  font-size:30px;
+  width: 200px;
+  height: 70px;
+ border-radius: 40px;
+ border: none;
+ font-size:25px ;
+ background-color:lightgrey ;
+}
+
+
+.team{
+  background-color: white;
+  height: 700px;
+  width: 1740px;
+  margin-top: 110px;
+  
+}
+
+
+#meet{
+  width: 220px;
+  height: 35px;
+  background-color: rgb(182, 190, 201);
+  border: 2px solid;
+ text-align: center;
+ padding-top: 5px;
+ border-radius: 45px;
+ color: rgb(51, 117, 236);
+ border: none;
+ font-weight: bold;
+ margin-left: 600px;
+ margin-top: 50px;
+}
+
+#our{
+ font-size: 50px;
+ font-weight: lighter;
+ margin-left: 500px;
+ font-weight: bold;
+
+}
+
+.md{
+    
+   margin-left: 50px;
+    color:black;  
+    font-size:25px; 
+    width: 300px;
+    height: 450px;
+    background-color: white;
+    border-radius: 20px 20px 0px 0px;
+
+
+  }
+
+.ms{
+    
+
+    color:black;  
+    font-size:25px; 
+    width: 300px;
+    height: 450px;
+    background-color: white;
+    border-radius: 20px 20px 0px 0px;
+    margin-left: 50px;
+  }
+
+

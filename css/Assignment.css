@@ -1,0 +1,139 @@
+.perfect{
+	margin-top: 50px;
+	text-align: center;
+	font-size: 28px;
+}
+
+.track{
+
+	text-align: center;
+	color: gray;
+	
+}
+
+#one{
+
+	height: 65px;
+	width: 165px;
+	border-radius:10px ;
+	border-bottom:4px solid rgba(128, 128, 128, 0.2);
+	border-top: 1px solid rgba(128, 128, 128, 0.2);
+	border-left: 1px solid rgba(128, 128, 128, 0.2);
+	border-right: 1px solid rgba(128, 128, 128, 0.2);
+	margin-left: 435px;
+	margin-top: 40px;
+
+}
+#two{
+	height: 65px;
+	width: 165px;
+	border-radius:10px ;
+	border-bottom:4px solid rgba(128, 128, 128, 0.2);
+	border-top: 1px solid rgba(128, 128, 128, 0.2);
+	border-left: 1px solid rgba(128, 128, 128, 0.2);
+	border-right: 1px solid rgba(128, 128, 128, 0.2);
+	margin-left: 40px;
+	margin-top: 40px;
+}
+
+.background{
+	height: 100px;
+
+	margin-top:50px;
+	margin-left: 130px;
+}
+
+.line{
+	height: 5px;
+	width: 1000px;
+	background-color: deepskyblue;
+	margin-top: 800px;
+	margin-left: 100px;
+}
+
+.clients{
+	margin-top: 50px;
+	text-align: center;
+	font-size: 28px;
+	color: deepskyblue;
+}
+
+.today{
+	margin-top: 30px;
+	text-align: center;
+	font-size: 12px;
+	color: dimgray;
+}
+
+.have{
+	margin-top: 100px;
+	font-size: 12px;
+	color: dimgray;
+	margin-left: 30px;
+}
+
+
+.lilly{
+	margin-top: 110px;
+	font-size: 12px;
+	color: deepskyblue;
+	
+}
+
+.move{
+	margin-left: 530px;
+	font-size: 12px;
+	color: deepskyblue;
+	
+}
+
+.color{
+	height: 400px;
+	width: 1000px;
+	background-color: rgba(123, 104, 238, 0.9);
+	margin-left: 100px;
+	margin-top: 40px;
+}
+
+#download{
+	padding-top: 70px;
+	text-align: center;
+	font-size: 40px;
+	color: white;
+}
+
+#grab{
+	
+	text-align: center;
+	font-size: 12px;
+	color: white;
+}
+
+
+#three{
+
+	height: 58px;
+	width: 159px;
+	border-radius: 5px;
+	border-bottom:4px solid rgba(123, 104, 238, 0.9);
+	border-top: 1px solid rgba(123, 104, 238, 0.9);
+	border-left: 1px solid rgba(123, 104, 238, 0.9);
+	border-right: 1px solid rgba(123, 104, 238, 0.9);
+	margin-left: 330px;
+	margin-top: 80px;
+	background-color: rgba(123, 104, 238, 0.9);
+
+}
+
+#four{
+	height: 58px;
+	width: 159px;
+	border-radius: 5px;
+	border-bottom:4px solid rgba(123, 104, 238, 0.9);
+	border-top: 1px solid rgba(123, 104, 238, 0.9);
+	border-left: 1px solid rgba(123, 104, 238, 0.9);
+	border-right: 1px solid rgba(123, 104, 238, 0.9);
+	margin-left: 20px;
+	margin-top: 80px;
+	background-color: rgba(123, 104, 238, 0.9);
+}

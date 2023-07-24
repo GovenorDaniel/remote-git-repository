@@ -1,0 +1,12 @@
+.back{
+	height: 600px;
+	width: 1300px;
+
+}
+
+
+.peace{
+ /* background-image: url("images/Capture.jpeg/img/jumbotron_bg.jpg");
+  background-size: cover;*/
+  background-color: red;
+}

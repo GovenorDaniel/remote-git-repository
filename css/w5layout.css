@@ -1,0 +1,20 @@
+body{
+	background-color: lightblue;
+}
+
+.my-own-class{
+	background-color: greenyellow;
+	color: #ff;
+}
+
+.footer{
+	background-color: red;
+	height: 10vh;
+	border: 2px solid black;
+}
+
+.col1{
+	background-color: purple;
+	color: yellow;
+	border:solid 6px white;
+}

@@ -1,0 +1,145 @@
+
+
+.mother{
+	display: flex;
+}
+
+
+.divide{
+	display: flex;
+	
+
+}
+
+
+
+#in{
+	background-color: blue;
+	width: 40px;
+	height: 40px;
+	color: white;
+	padding-left: 8px;
+	padding-top: 3px;
+	border-radius: 5px;
+}
+
+
+
+
+body{
+	background-color: ghostwhite;
+	
+
+}
+
+
+.space{
+	
+	margin-right: 140px;
+	padding-left: 80px;
+}
+
+.push{
+
+	margin-right: 140px;
+	margin-left: 80px;
+}
+
+
+
+
+#first-box{
+	background-color: moccasin;
+	height: 62px;
+	width: 315px;
+	padding-left: 20px;
+	padding-top: 20px;
+	margin-bottom: 12px;
+
+}
+
+
+#second-box{
+	background-color: mistyrose;
+	height: 62px;
+	width: 315px;
+	padding-left: 20px;
+	padding-top: 20px;
+	margin-bottom: 12px;
+
+}
+
+#third-box{
+	background-color: palegreen;
+	height: 62px;
+	width: 315px;
+	padding-left: 20px;
+	padding-top: 20px;
+	margin-bottom: 12px;
+}
+
+
+#forth-box{
+	background-color: lavender;
+	height: 62px;
+	width: 315px;
+	padding-left: 20px;
+	padding-top: 20px;
+	margin-bottom: 12px;
+	
+}
+
+#fifth-box{
+	background-color: powderblue;
+	height: 62px;
+	width: 315px;
+	padding-left: 20px;
+	padding-top: 20px;
+	margin-bottom: 12px;
+
+}
+
+
+
+#sixth-box{
+	background-color: seashell;
+	height: 62px;
+	width: 315px;
+	padding-left: 20px;
+	padding-top: 20px;
+	margin-bottom: 12px;
+}
+
+
+#seventh-box{
+	background-color: lavenderblush;
+	height: 62px;
+	width: 315px;
+	padding-left: 20px;
+	padding-top: 20px;
+	margin-bottom: 12px;
+
+}
+
+
+#eight-box{
+	background-color: moccasin;
+	height: 62px;
+	width: 315px;
+	padding-left: 20px;
+	padding-top: 20px;
+	margin-bottom: 12px;
+
+	
+}
+
+
+.flex{
+	display: flex;
+}
+
+
+
+
+
+}

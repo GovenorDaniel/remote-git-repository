@@ -1,0 +1,91 @@
+.length{
+    width: 700px;
+    height: 50px;
+    background-color: #484644;
+    display: flex;
+}
+
+#share{
+    margin-top: 10px;
+    color: white;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+#logo2{
+    margin-left: 1300px;
+    margin-top: 10px;
+}
+
+#quotation{
+
+    color: white;
+    font-size: 30px;
+    font-weight: lighter;
+    margin-top: 3px;
+    margin-left: 40px;
+
+    }
+
+.length2{
+    width: 700px;
+    height: 600px;
+    background-color: #fffff;
+    display: flex;
+} 
+
+.navbar{
+    width: 1645px;
+    height: 40px;
+    background-color: red;
+   
+}   
+
+.one{
+    width: 1600px;
+    height: 500px;
+    background-color: white;
+    
+    margin-top: 8px;
+    margin-left: 30px;
+}
+
+.two{
+    width: 1600px;
+    height: 70px;
+    background-color: red;
+    display: flex;
+    margin-top: 40px;
+    font-size: 20px;
+} 
+
+.three{
+    width: 250px;
+    height: 750px;
+    background-color: red;
+    color: white;
+    font-size: 16px;
+
+
+    
+}
+
+.ccba{
+    margin-left: 20px;
+    margin-top: 8px;
+    color: white;
+} 
+
+#span{
+    margin-left: 10px;
+    color: white;
+    margin-top: 8px;
+}
+
+.flex{
+    display: flex;
+}
+
+.logoflex{
+    display: flex;
+}
