@@ -1,0 +1,151 @@
+body{
+	background-color:rgba(220, 20, 60, 0.4) ;
+	background-size: cover;
+
+}
+
+
+.fix{
+	width: 2000px;
+	height: 60px;
+	background-color: orange;
+	border: 2px solid;
+	background-color:rgba(220, 20, 60, 0.01) ;
+	border: none;
+}
+
+
+
+
+
+.first{
+	width: 940px;
+	height: 350px;
+	border: 2px solid ;
+	background-color: rgba(192, 60, 43, 1);
+	border-radius: 8px 8px 0px 0px;
+	border: none;
+
+	
+}
+
+.second{
+	width: 940px;
+	height: 1550px;
+	border: 2px solid;
+	background-color: rgba(225, 240, 245, 0.7);
+	margin-left: 300px;
+	border-radius: 0px 0px 8px 8px;	
+	border: none;
+}
+
+
+
+.mainbg{
+	margin-left: 300px;
+
+}
+
+.logo{
+	margin-top: 60px;
+	margin-left: 50px;
+}
+
+#ccba{
+	color: white;
+	font-size: 35px;
+	margin-left: 60px;
+}
+
+#the{
+	color: white;
+	font-size: 14px;
+	margin-left: 60px;
+}
+
+.all{
+	margin-left: 50px;
+}
+
+#required{
+	margin-top: 10px;
+}
+
+#details{
+	font-size: 20px;
+	color: crimson;
+	margin-top: 20px;
+}
+
+#pls{
+	margin-top: 10px;
+	font-size: 13px;
+}
+
+#personal{
+	margin-top: 10px;
+
+}
+
+#text{
+	width: 700px;
+	margin-left: 8px;
+	border-radius: 5px;
+	height: 30px;
+	border: none;
+	margin-top: 5px;
+}
+
+#employee{
+	margin-top: 60px;
+}
+
+#drop{
+	width: 300px;
+	height:30px ;
+	border: none;
+	border-radius: 5px;
+	border-color: crimson;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+
+#drop-down{
+	margin-top: 60px;
+}
+
+
+#site{
+	margin-top: 60px;
+}
+
+.next{
+	width: 95px;
+	height: 45px;
+	background-color: crimson;
+	color: white;
+	border-radius: 8%;
+	margin-top: 50px;
+	padding-top: 8px;
+	border-color: crimson;
+	margin-left: 20px;
+	font-weight: bold;
+
+}
+
+
+.never{
+	padding-top: 20px;
+}
+
+
+.this{
+	padding-top: 80px;
+	font-size: 14px;
+}
+
+
+input::placeholder {
+    padding-left: 10px;
+    border-color: black;
+}
