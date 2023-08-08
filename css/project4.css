@@ -3,6 +3,62 @@ body{
 	background-size: cover;
 
 }
+.firstflex{
+	display: flex;
+}
+
+
+.threeflex{
+	display:flex;
+	height: 40px;
+	width: 40px;
+	border: none;
+	border-radius:20%;
+	background-color: rgba(77, 20, 17, 1.0);
+	margin-left: 310px;
+	margin-top: 10px;
+	
+	
+
+
+}
+#dot1{
+	height:5px;
+	width: 5px;
+	border: 2px solid;
+	border-radius: 50%;
+	background-color: white;
+	margin-top: 18px;
+	border-color: white;
+	
+
+}
+
+#dot2{
+	height:5px;
+	width: 5px;
+	border: 2px solid;
+	border-radius: 50%;
+	background-color: white;
+	margin-top: 18px;
+	border-color: white;
+	margin-left: 2px;
+
+}
+
+#dot3{
+	height:5px;
+	width: 5px;
+	border: 2px solid;
+	border-radius: 50%;
+	background-color: white;
+	margin-top: 18px;
+	border-color: white;
+	margin-left: 2px;
+
+}
+
+
 
 
 .fix{
@@ -20,7 +76,7 @@ body{
 
 .first{
 	width: 940px;
-	height: 350px;
+	height: 150px;
 	border: 2px solid ;
 	background-color: rgba(192, 60, 43, 1);
 	border-radius: 8px 8px 0px 0px;
@@ -31,7 +87,7 @@ body{
 
 .second{
 	width: 940px;
-	height: 1550px;
+	height: 900px;
 	border: 2px solid;
 	background-color: rgba(225, 240, 245, 0.7);
 	margin-left: 300px;
@@ -47,15 +103,16 @@ body{
 }
 
 .logo{
-	margin-top: 60px;
-	margin-left: 50px;
+	margin-top: 10px;
+	margin-left: 20px;
+	
 }
 
 #ccba{
 	color: white;
-	font-size: 35px;
-	margin-left: 60px;
-}
+	font-size: 15px;
+	margin-left: 20px;
+	}
 
 #the{
 	color: white;
@@ -117,6 +174,10 @@ body{
 
 #site{
 	margin-top: 60px;
+}
+
+.flex{
+	display: flex;
 }
 
 .next{
